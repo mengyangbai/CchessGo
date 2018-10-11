@@ -2,6 +2,7 @@
 Alpha Go for Chinese Chess
 ## Introduction
 A basic project for chinese chess using Alphazero.
+https://github.com/walker8088/cchesslib as the cchesslib.
 ## Cchess Libs
 The common user interface for chinese cchess, will use some completed software.
 ## Related Papers
